@@ -13,7 +13,7 @@ public class LargestProduct {
 
     public static int largestProductOfThree(int[] arr) {
 
-        int result = 1;
+        int result;
         int a = arr.length - 1;
         Arrays.sort(arr);
 
