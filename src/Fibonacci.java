@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Fibonacci {
     public static void main(String[] args) {
-        System.out.println(fibonacci(20));
+        System.out.println(fibonacci(10));
     }
 
     public static int fibonacci(int num) {
